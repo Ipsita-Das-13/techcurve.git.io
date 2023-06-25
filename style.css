@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+
+
+   .text {
+    font-size: 20px;
+  }
+  Code language: CSS (css)
+  
+   
+   img {
+     max-width: 300%;
+     max-height:300%;
+   }
+   
+   
+  
